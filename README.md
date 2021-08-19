@@ -16,6 +16,12 @@ I have experience with full-stack web application development, data analytics da
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmanuele&count_private=true&theme=radical)
 ](https://github.com/anuraghazra/github-readme-stats)
 
+#### My most used languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+#### My current project:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexmanuele&repo=arete)](https://github.com/alexmanuele/arete)
+
 Stats generated using [anuraghazra's](https://github.com/anuraghazra) [github-readme-stats project](https://github.com/anuraghazra/github-readme-stats). 
 <!--
 **alexmanuele/alexmanuele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
