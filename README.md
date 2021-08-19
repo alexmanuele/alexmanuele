@@ -1,6 +1,5 @@
-### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmanuele)](https://github.com/anuraghazra/github-readme-stats)
-
+Stats generated using [anuraghazra's](https://github.com/anuraghazra) [github-readme-stats project](https://github.com/anuraghazra/github-readme-stats). 
 <!--
 **alexmanuele/alexmanuele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
