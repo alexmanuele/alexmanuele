@@ -13,7 +13,7 @@ I have experience with full-stack web application development, data analytics da
 - 😄 Pronouns: He/Him
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmanuele&count_private=true&theme=radical&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmanuele&count_private=true&theme=radical&show_icons=true&include_all_commits=true)
 ](https://camo.githubusercontent.com/500959509519d9ccf11002f77cc764c91bc810d8157b6c514f643660ccd76d61/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616c65786d616e75656c6526636f756e745f707269766174653d74727565267468656d653d7261646963616c)
 
 #### My most used languages:
