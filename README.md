@@ -9,6 +9,7 @@ I have experience with full-stack web application development, data analytics da
 - 🔭 I’m currently working on [ARETE](https://github.com/fmaguire/arete), an HPC-ready bioinformatics pipleline for the detection of AMR and virulence factors. 
 - 🌱 I’m currently learning C# for game development as a hobby.
 - 👯 I’m looking to collaborate on data analytics and/or dashboards
+- 🤔 I would love the chance to work on a project using a GraphQL, like Arango or Neo4J
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/alex-manuele/)
 - 😄 Pronouns: He/Him
 
