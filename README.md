@@ -17,7 +17,7 @@ I have experience with full-stack web application development, data analytics da
 ](https://github.com/anuraghazra/github-readme-stats)
 
 #### My most used languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmanuele)](https://github.com/anuraghazra/github-readme-stats)
 
 #### My current project:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexmanuele&repo=arete)](https://github.com/alexmanuele/arete)
